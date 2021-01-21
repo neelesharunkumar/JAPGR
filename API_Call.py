@@ -1,7 +1,7 @@
 import requests
 
 for i in range(1):
-    myobj = {"true": i}
+
 
     x = requests.post(url, json = myobj)
     
