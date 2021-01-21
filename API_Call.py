@@ -8,7 +8,7 @@ for i in range(1):
 
     #print(x.text)
 
-    lis = x.text.split(" ")
+    lis = x.text.split("sakthi")
 
 
     print(lis)
