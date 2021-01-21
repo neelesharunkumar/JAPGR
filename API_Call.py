@@ -1,6 +1,5 @@
 import requests
 
-url = 'https://lk425hka04.execute-api.us-east-2.amazonaws.com/capstone_mmx/capstone-mmx-resource'
 for i in range(1):
     myobj = {"true": i}
 
