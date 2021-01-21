@@ -10,9 +10,14 @@ for i in range(1):
 
     lis = x.text.split(" ")
 
+#hello world making  a change
+tag = et.SubElement(Parent, tagName, xmlAttributeDict)
+    if tagText is None:
+        tag.text = ''
+    else:
+        tag.text = str(tagText).replace(chr(160), ' ').strip()
+    #print(tag.text)
+    logging.info("{} tag is generated as {} or {}".format(str(tagName))
+    print(lis)
 
-    
-    """ if(lis[3]=='high'):
-        print(i)
-        break """
 
