@@ -20,3 +20,4 @@ tag = et.SubElement(Parent, tagName, xmlAttributeDict)
     logging.info("{} tag is generated as {} or {}".format(str(tagName))
     print(lis)
 
+
