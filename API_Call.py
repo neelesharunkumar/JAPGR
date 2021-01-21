@@ -11,7 +11,7 @@ for i in range(1):
     lis = x.text.split(" ")
 
 
-    print(lis)
+    
     """ if(lis[3]=='high'):
         print(i)
         break """
