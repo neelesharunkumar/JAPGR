@@ -15,4 +15,5 @@ for i in range(1):
     """ if(lis[3]=='high'):
         print(i)
         break """
+    print(lis)
 
